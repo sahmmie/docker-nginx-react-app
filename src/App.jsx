@@ -14,7 +14,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer">
-          Learn React docker deploy and step by step builds
+          Learn React docker deploy and step by step builds, test.
         </a>
       </header>
     </div>
