@@ -1,5 +1,3 @@
-language: generic
-cache: bundler
 sudo: required
 services:
     - docker
